@@ -1,0 +1,9 @@
+Amazon web services
+Puppet
+Chef
+Ansible
+Jenkins
+Git
+Maven
+Bitbucket
+
