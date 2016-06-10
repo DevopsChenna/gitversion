@@ -5,3 +5,8 @@ user { 'mitchell':
   shell      => '/bin/bash',
   home       => '/home/mitchell'
 }
+
+resource_type { 'resource_name'
+  attribute => value
+  ...
+}
