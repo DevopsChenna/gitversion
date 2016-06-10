@@ -4,4 +4,6 @@ template '/tmp/somefile' do
   notifies :reload, 'service[apache]', :immediately
   template '/etc/www/configures-apache.conf' do
   notifies :restart, 'service[apache]', :immediately
+  notifies :restart, 'service[afpd]', :immediately
+  notifies :restart, 'service[cnid]', :immediately
 end
