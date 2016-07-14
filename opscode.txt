@@ -1,3 +1,3 @@
-opscode comes in CHEF
-chef is configuration management tool.
+Opscode comes in CHEF
+Chef is configuration management tool.
 In short we call it as CI
