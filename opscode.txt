@@ -1,9 +1,3 @@
-Amazon web services
-Puppet
-Chef
-Ansible
-Jenkins
-Git
-Maven
-Bitbucket
-
+opscode comes in CHEF
+chef is configuration management tool.
+In short we call it as CI
